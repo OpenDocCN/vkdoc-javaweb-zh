@@ -1,3 +1,4 @@
++   [Spring REST 教程](README.md)
 +   [一、REST 简介](01.md)
 +   [二、Spring Web MVC 入门](02.md)
 +   [三、REST Spring](03.md)
@@ -8,4 +9,3 @@
 +   [八、安全](08.md)
 +   [九、客户端和测试](09.md)
 +   [十、HATEOAS](10.md)
-+   [Spring REST 教程](README.md)
