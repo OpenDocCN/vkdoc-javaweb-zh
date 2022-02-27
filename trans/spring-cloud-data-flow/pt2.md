@@ -1,1 +1,1 @@
-# 第二部分 Spring 云数据流:内部
+# 第二部分：Spring CloudStream 内部原理
