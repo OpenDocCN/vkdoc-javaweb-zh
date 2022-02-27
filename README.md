@@ -18,7 +18,7 @@
 
 ### 负责人
 
-* [{adminName}](https://github.com/wizardforcel): 562826179
+* [飞龙](https://github.com/wizardforcel): 562826179
 
 ### 其他
 
